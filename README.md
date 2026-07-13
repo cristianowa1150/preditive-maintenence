@@ -32,6 +32,8 @@ Este repositório contém a análise, fundamentação teórica e experimentaçã
 
 O notebook completo com código, saídas e gráficos está disponível em [`notebook/Prediction_Management_OpenRAN_Cristiano_Silveira_Silva.ipynb`](notebook/Prediction_Management_OpenRAN_Cristiano_Silveira_Silva.ipynb).
 
+https://colab.research.google.com/drive/1wOyvATo8mNvb_-K0zYlnbUEAt0nIEaoi?usp=sharing 
+
 ---
 
 ## Parte 1 — Análise Crítica e Seleção do Algoritmo
