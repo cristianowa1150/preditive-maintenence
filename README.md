@@ -7,6 +7,7 @@
 - **Aluno:** Cristiano Silveira Silva
 
 ---
+LINK PARA O NOTEBOOK = https://colab.research.google.com/drive/1k70k02-uDzoEOYVzavNISLGc6sY9K0t6?usp=sharing
 
 ## Sumário
 
